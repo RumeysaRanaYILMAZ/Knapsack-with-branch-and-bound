@@ -199,7 +199,7 @@ public class Knapsackdeneme1 {
          System.out.println(i);
         
         }
-        System.out.println(knapsack(W,arr,n));    
+        System.out.println("Best solution for knapsack"+knapsack(W,arr,n));    
               
         
         
